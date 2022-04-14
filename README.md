@@ -1,4 +1,4 @@
-# Clieent QrCode API
+# Client QrCode API
 ![Logo Qr Code](https://github.com/Stevencibambo/client-qrcode-api/blob/main/public/qrcode.png)
 # Getting Started with Create React App
 
