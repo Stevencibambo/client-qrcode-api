@@ -3,7 +3,6 @@ import {Redirect} from 'react-router-dom';
 import Qrcode from './Qrcode';
 import EncodeForm from './EncodeForm';
 import Download from './Download';
-import { saveAs } from 'file-saver';
 
 class Encode extends Component{
     state = {
