@@ -1,3 +1,5 @@
+# Clieent QrCode API
+![Logo Qr Code](https://github.com/Stevencibambo/client-qrcode-api/public/qrcode.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
